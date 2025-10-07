@@ -1,0 +1,7 @@
+e graph.comments=false
+e graph.bytes=true
+e asm.comments=true
+e asm.cmt.user=true
+e scr.theme=ayu
+e scr.utf8=true
+e io.cache=true
